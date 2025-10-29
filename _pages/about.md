@@ -31,11 +31,11 @@ At Tesla, I designed and deployed the Power Automate Workflow System (Project 20
 💡 Recent Research Projects
 Recently, I’ve led and contributed to several advanced machine learning projects, including:
 
-integrating ResNet50 encoders and attention decoders for automatic [visual-to-text generation](/files/Transformer based Optimized Image Capt.pdf).
+integrating ResNet50 encoders and attention decoders for automatic [visual-to-text generation](/files/Transformer based Optimized Image Capt.pdf | relative_url).
 
-[GAN-based Contrast-Enhanced MRI Synthesis Framework](/files/GAN based Contrast-Enhanced MRI Synthesis Framewor.pdf), developing dual-discriminator GAN architectures to generate diagnostic-quality MRI images.
+[GAN-based Contrast-Enhanced MRI Synthesis Framework](/files/GAN based Contrast-Enhanced MRI Synthesis Framewor.pdf | relative_url), developing dual-discriminator GAN architectures to generate diagnostic-quality MRI images.
 
-[Movie Review Analysis](/files/ML Movie Review Analysis.pdf), a multi-task learning pipeline for sentiment classification, score regression, and critic prediction using BERT embeddings and XGBoost models.
+[Movie Review Analysis](/files/ML Movie Review Analysis.pdf | relative_url), a multi-task learning pipeline for sentiment classification, score regression, and critic prediction using BERT embeddings and XGBoost models.
 
 📊 Data Analytics:
 Analytical & Deep Dive Skills
