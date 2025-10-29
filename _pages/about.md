@@ -9,7 +9,8 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities]({{ '/images/little-robert.png' | relative_url }}){: .align-right width="300px"}
+![Illustration of combining vision and language modalities]({{ '/images/little-robort.png' | relative_url }}){: .align-right width="300px"}
+
 
 
 💻 I’m a graduate student in Electrical and Computer Engineering at the University of Toronto.
