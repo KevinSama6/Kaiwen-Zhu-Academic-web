@@ -16,7 +16,8 @@ description              : &description "Kaiwen Zhu's Profile"   # Update this w
 url                      : https://kevinsama6.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/Kaiwen-Zhu-Academic-web" # the subpath of your site, e.g. "/blog"
-repository               : "kevinsama6/kevinsama6.github.io"
+repository               : "kevinsama6/Kaiwen-Zhu-Academic-web"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
