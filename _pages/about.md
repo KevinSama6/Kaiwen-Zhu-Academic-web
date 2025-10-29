@@ -28,13 +28,43 @@ Selected Experience
 🧩 Software Development:
 At Tesla, I designed and deployed the Power Automate Workflow System (Project 2070) — a fully automated Power Platform solution integrating triggers across Power Apps, Power BI, and SharePoint. The system streamlined feedback and reporting workflows for all sales training programs in China. I also developed reusable Python APIs to standardize and visualize high-dimensional datasets, enabling rapid uploads to SharePoint and SQL with minimal manual intervention.
 
-🤖 Machine Learning:
-My current research and projects explore how AI models can bridge visual and language modalities. From building a Transformer-based image captioning model using ResNet and attention decoders to developing a GAN framework for MRI synthesis, I aim to design interpretable, reliable, and high-impact ML systems.
+💡 Recent Research Projects
+Recently, I’ve led and contributed to several advanced machine learning projects, including:
+
+integrating ResNet50 encoders and attention decoders for automatic [visual-to-text generation](/files/Transformer based Optimized Image Capt.pdf).
+
+[GAN-based Contrast-Enhanced MRI Synthesis Framework](/files/GAN based Contrast-Enhanced MRI Synthesis Framewor.pdf), developing dual-discriminator GAN architectures to generate diagnostic-quality MRI images.
+
+[Movie Review Analysis](/files/ML Movie Review Analysis.pdf), a multi-task learning pipeline for sentiment classification, score regression, and critic prediction using BERT embeddings and XGBoost models.
 
 📊 Data Analytics:
-I specialize in transforming complex data into actionable insights. In both Tesla and Alcle Environmental Solutions, I leveraged Power BI and Python to visualize performance trends, standardize reporting pipelines, and design predictive models for engagement and content performance — helping teams make faster, data-driven decisions.
+Analytical & Deep Dive Skills
 
-🌱 I’m passionate about building intelligent, scalable systems and assisting others on their journey in software engineering, data science, and academia.
+Proficient in data-driven performance analysis, capable of conducting deep-dive investigations into operational, training, and engagement datasets to uncover efficiency gaps and improvement opportunities.
+
+Skilled in applying statistical analysis and predictive modeling (PyTorch, TensorFlow, Python, Excel) to extract actionable insights from complex, multi-source data.
+
+📊 Reporting & Visualization
+
+Experienced in building interactive dashboards and automated reporting systems using Power BI and Python, enabling real-time tracking and reducing manual reporting time.
+
+Strong ability to translate quantitative insights into clear, visual summaries, supporting executive and operational decision-making.
+
+Adept at communicating analytical findings through data storytelling, presentations, and reports tailored to both technical and non-technical audiences.
+
+🤝 Stakeholder Communication
+
+Demonstrated success in collaborating with cross-functional teams (business, engineering, and training units) to align metrics and KPIs with organizational goals.
+
+Skilled at converting qualitative feedback into measurable indicators, facilitating effective dialogue between technical and management teams.
+
+⚙️ Efficiency & Impact
+
+Improved reporting efficiency by up to 40% through workflow automation and streamlined data pipelines.
+
+Enhanced decision-making speed by 30% with optimized dashboards and faster access to performance metrics.
+
+Proven ability to operationalize data insights into concrete actions that drive measurable business impact.
 
 
 
