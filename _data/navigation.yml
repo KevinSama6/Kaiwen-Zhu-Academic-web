@@ -11,8 +11,8 @@ main:
   - title: "CV"
     url: /files/Kevin Zhu Resume.pdf
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
