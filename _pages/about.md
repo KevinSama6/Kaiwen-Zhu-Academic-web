@@ -21,7 +21,8 @@ redirect_from:
 Selected Experience
 ======
 🧩 Software Development
-======
+
+
 At Tesla, I designed and deployed the Power Automate Workflow System (Project 2070) — a fully automated Power Platform solution integrating triggers across Power Apps, Power BI, and SharePoint. The system streamlined feedback and reporting workflows for all sales training programs in China. I also developed reusable Python APIs to standardize and visualize high-dimensional datasets, enabling rapid uploads to SharePoint and SQL with minimal manual intervention.
 
 💡 Recent Research Projects
