@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities]({{ '/images/little-robort.png' | relative_url }}){: .align-right width="300px"}
+![Illustration of combining vision and language modalities]({{ '/images/little-robort.png'}}){: .align-right width="300px"}
 
 
 
