@@ -16,7 +16,7 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
   - title: "CV"
-    url: Kaiwen-Zhu-Academic-web\files\Kevin Zhu Resume.pdf
+    url: /files/Kevin Zhu Resume.pdf
     
   - title: "Portfolio"
     url: /portfolio/

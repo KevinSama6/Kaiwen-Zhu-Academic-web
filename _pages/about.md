@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](Kaiwen-Zhu-Academic-web\images\little robort.png){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/little robort.png){: .align-right width="300px"}
 
 💻 I’m a software developer and data analyst with experience across software automation, machine learning, and large-scale data systems. I’m currently pursuing my Master’s in Electrical and Computer Engineering at the University of Toronto.
 
