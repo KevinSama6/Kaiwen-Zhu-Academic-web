@@ -23,7 +23,7 @@ repository               : "Kaiwen-Zhu-Academic-web"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Kaiwen Zhu" # Update with your name
   pronouns         : # example: "she/her"  
   bio              : "Software Developer/Machine Learning Engineer/Data Analyst"
